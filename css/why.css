@@ -1,0 +1,12 @@
+@media (min-width: 992px) {
+  .why-top .container .why-6{
+    bottom:20%
+  }
+  .why-top .container .why-5{
+    bottom: 50%;
+  }
+  .why-top{
+    padding-top: 20% !important;
+
+  }
+}

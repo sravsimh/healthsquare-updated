@@ -1,0 +1,22 @@
+.hidden-form {
+  right: -394px !important; /* adjust width to the width of the form */
+  transition: right 0.5s;
+}
+.visible-form {
+  right: 0 !important;
+  transition: right 0.5s;
+}
+
+@media (max-width: 500px) {
+  #contactForm {
+    width: 275px !important;
+    display: none!important;
+  }
+  #toggleFormButton {
+    right: 180px !important;
+  }
+  .hidden-form {
+    right: -275px !important; /* adjust width to the width of the form */
+    transition: right 0.5s;
+  }
+}
