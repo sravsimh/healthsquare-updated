@@ -33,7 +33,7 @@
 .slides li {
   display: block;
   box-sizing: border-box;
-  width: 33.33vw;
+  width: max-content;
   height: 100%;
   align-items: center;
   justify-content: center;
