@@ -12269,7 +12269,8 @@ textarea.form-control {
   background: #ff0000!important;
 }
 .btn-dark {
-  background-color: yellow!important;
+  background-color: #084479!important;
+  color: white;
 }
 
 .testimony-section {
